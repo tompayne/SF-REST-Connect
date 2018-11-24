@@ -1,3 +1,9 @@
+/**
+ * @author Tom P
+ * oAuth2 (UserName and Password)
+ * Returns access Token
+ */
+
 package sfdc_rest;
 
 import java.io.IOException;
@@ -12,6 +18,7 @@ import org.apache.http.client.HttpClient;
 import org.json.JSONObject;
 import org.json.JSONTokener;
 import org.json.JSONException;
+
 
 public class Main {
 
